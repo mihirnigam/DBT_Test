@@ -1,0 +1,1 @@
+select * from dev.public.users where city='bihar'
