@@ -1,0 +1,1 @@
+select * from public.accounts_dev where is_primary= 'true' and type='credit-card' and company ilike '%axis%'

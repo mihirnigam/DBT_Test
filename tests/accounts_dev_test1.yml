@@ -1,0 +1,8 @@
+version:2
+models:
+-name:accounts_dev_test1
+columns:
+-name:user_hash
+tests:
+-unique
+-not_null
